@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.group{
+    margin-left: 20%;
+
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    padding: 50px 5px 5px 5px;
+}
+
+#number{
+    width: 100%;
+    height: 20%;
+    font-size: 25px;
+}
+
+.button-group{
+    margin: 32px;
+    border-radius: 10px;
+}
+
+
+.button-group button{
+    width: 100%;
+    padding: 10px 10px;
+    background-color: gray;
+    border: none;
+    border-radius: 5px;
+}
